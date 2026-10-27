@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MarkdownNormalizer": {
+      "commandName": "Project",
+      "commandLineArgs": "\"D:\\Obsidian Vaults\\MainVault\\Career\" --recursive --dry-run"
+    }
+  }
+}

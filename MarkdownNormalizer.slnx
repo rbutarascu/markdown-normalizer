@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="MarkdownNormalizer.Tests/MarkdownNormalizer.Tests.csproj" />
+  <Project Path="MarkdownNormalizer/MarkdownNormalizer.csproj" />
+</Solution>
